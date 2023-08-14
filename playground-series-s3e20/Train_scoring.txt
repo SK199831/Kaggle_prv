@@ -1,0 +1,47 @@
+Decision Tree Regressor
+Mean_Squared_Error: 654.5241151411761
+Root_Mean_Squared_Error: 25.58366891478187
+Mean_Absolute_Error: 11.432328806758782
+Mean_Absolute_Percentage_Error: 0.5157548238757453
+Symmetric_Mean_Absolute_Percentage_Error: 14.74273668653958
+============================================================================
+
+Random Forest Regressor
+Mean_Squared_Error: 559.8928573244541
+Root_Mean_Squared_Error: 23.662055221904417
+Mean_Absolute_Error: 10.98648920981662
+Mean_Absolute_Percentage_Error: 481698856958.9593
+Symmetric_Mean_Absolute_Percentage_Error: 16.238923330483637
+============================================================================
+
+Bagging Regressor
+Mean_Squared_Error: 693.1307646404734
+Root_Mean_Squared_Error: 26.32737671399248
+Mean_Absolute_Error: 12.445380561553943
+Mean_Absolute_Percentage_Error: 17924676301266.832
+Symmetric_Mean_Absolute_Percentage_Error: 21.374387265092157
+============================================================================
+
+Adaboost Regressor
+Mean_Squared_Error: 139.9408233356902
+Root_Mean_Squared_Error: 11.829658631409878
+Mean_Absolute_Error: 9.79977695712708
+Mean_Absolute_Percentage_Error: 1252571993007553.5
+Symmetric_Mean_Absolute_Percentage_Error: 46.35543962627074
+============================================================================
+
+GradBoost Regressor
+Mean_Squared_Error: 8334.842019415955
+Root_Mean_Squared_Error: 91.29535595755107
+Mean_Absolute_Error: 49.81580428812459
+Mean_Absolute_Percentage_Error: 4649659612263753.0
+Symmetric_Mean_Absolute_Percentage_Error: 83.98928801318603
+============================================================================
+
+XGB Regressor
+Mean_Squared_Error: 1715.546115719862
+Root_Mean_Squared_Error: 41.41915155721882
+Mean_Absolute_Error: 25.517097381005787
+Mean_Absolute_Percentage_Error: 1748393419909703.2
+Symmetric_Mean_Absolute_Percentage_Error: 60.10316529467931
+============================================================================
